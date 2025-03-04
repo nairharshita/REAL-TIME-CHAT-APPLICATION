@@ -38,4 +38,4 @@ Our Real-Time Chat Application is a fully functional, scalable, and secure messa
 real-time experience while ensuring security and performance.
 
 
-![Image](https://github.com/user-attachments/assets/de35a92c-6d5e-4640-9a8a-51f293052ce1)
+![Image](https://github.com/user-attachments/assets/389890c4-964a-4a95-92ec-df7b6a432aa3)
